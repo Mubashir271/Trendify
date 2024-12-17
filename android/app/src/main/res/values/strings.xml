@@ -1,3 +1,6 @@
 <resources>
+    <style name="light" parent="Theme.AppCompat.Light.NoActionBar"></style>
+
+    <string name="Trendify">Trendify</string>
     <string name="app_name">Trendify</string>
 </resources>

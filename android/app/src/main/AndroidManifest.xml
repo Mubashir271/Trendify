@@ -4,11 +4,11 @@
 
     <application
       android:name=".MainApplication"
-      android:label="@string/app_name"
+      android:label="@string/Trendify"
       android:icon="@mipmap/ic_launcher"
       android:roundIcon="@mipmap/ic_launcher_round"
       android:allowBackup="false"
-      android:theme="@style/AppTheme"
+      android:theme="@style/light"
       android:supportsRtl="true">
       <activity
         android:name=".MainActivity"
